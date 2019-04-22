@@ -5,7 +5,7 @@ It will ask for your password which is necessary for it to create the
 necessary directories to install the client application.
 
 After the installation is complete, feel free to move the
-'WysperClient.desktop' application to anywhere on your computer where
+'client.desktop' application to anywhere on your computer where
 it is easily accessible (we recommend your desktop). This application
 is double clickable and will run the Wysper software whenever you
 click it.
