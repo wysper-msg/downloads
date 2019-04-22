@@ -1,0 +1,14 @@
+Thank you for choosing to use Wysper software!
+
+To install this application, run the 'install.sh' script in a terminal.
+It will ask for your password which is necessary for it to create the
+necessary directories to install the client application.
+
+After the installation is complete, feel free to move the
+'client.desktop' application to anywhere on your computer where
+it is easily accessible (we recommend your desktop). This application
+is double clickable and will run the Wysper software whenever you
+click it.
+
+Happy messaging!
+#CommunicationControlled

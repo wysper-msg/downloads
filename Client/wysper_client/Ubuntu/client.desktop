@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=WysperClient
+Exec=/usr/lib/jvm/java-8-openjdk-amd64/bin/java -jar /usr/lib/wysper_client/wysper_client.jar  
+Terminal=false
+Icon=/usr/lib/wysper_client/icon.png
