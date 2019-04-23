@@ -3,7 +3,7 @@
   <information>
     <title>Wysper Client Application</title>
     <vendor>Unknown</vendor>
-    <description>wysper-client</description>
+    <description>wysper-client2</description>
     <offline-allowed/>
   </information>
   <resources>
@@ -11,6 +11,6 @@
     <jar href="json-simple-1.1.jar" size="16046" download="eager" />
     <jar href="wysper_client.jar" size="463900" download="eager" />
   </resources>
-  <jfx:javafx-desc  width="600" height="400" main-class="ClientApplication"  name="wysper-client" />
+  <jfx:javafx-desc  width="600" height="400" main-class="ClientApplication"  name="wysper-client2" />
   <update check="background"/>
 </jnlp>
