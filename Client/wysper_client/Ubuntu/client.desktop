@@ -2,5 +2,5 @@
 Type=Application
 Name=WysperClient
 Exec=java -jar /usr/lib/wysper_client/wysper_client.jar  
-Terminal=false
+Terminal=true
 Icon=/usr/lib/wysper_client/icon.png
