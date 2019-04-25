@@ -4,6 +4,14 @@ To install this application, run the 'install.sh' script in a terminal.
 It will ask for your password which is necessary for it to create the
 necessary directories to install the client application.
 
+
+As a reminder, your default Java installation must be the Oracle
+issued Java 8 JRE. If an OpenJDK JRE or a later Java version is your
+default, then the execution of this application is not guaranteed.
+If you have a binary installed for the Java 8 JRE, you can modify the
+client.desktop file to call this binary instead of the 'java' keyword.
+
+
 After the installation is complete, feel free to move the
 'client.desktop' application to anywhere on your computer where
 it is easily accessible (we recommend your desktop). This application

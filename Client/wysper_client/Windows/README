@@ -1,5 +1,9 @@
 Thank you for choosing to use Wysper software!
 
+As a reminder, your default Java installation must be the Oracle
+issued Java 8 JRE. If an OpenJDK JRE or a later Java version is your
+default, then the execution of this application is not guaranteed.
+
 This application is run via the 'WysperClient.exe' executable.
 Do not move any files within this folder. We recommend making a
 shortcut to this executable for easy running from the Desktop.
